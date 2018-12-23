@@ -1,4 +1,4 @@
-package com.sail.kotlin.clazz
+package com.sail.kotlin.base
 
 /**
  * object declaration， 对象声明
@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
 
     println("-----")
 
-    MyTest.MyObject.method()
+    MyTest.method()
 
     println("-----")
 
@@ -25,7 +25,7 @@ fun main(args: Array<String>) {
 
     println("-----")
 
-    val v = MyTest.MyObject
+    val v = MyTest
     println(v.javaClass)
 
 

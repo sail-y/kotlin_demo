@@ -1,4 +1,4 @@
-package com.sail.kotlin.function
+package com.sail.kotlin.base
 
 /**
  * 扩展：extension

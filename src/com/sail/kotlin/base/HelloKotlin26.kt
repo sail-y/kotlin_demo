@@ -1,6 +1,4 @@
-package com.sail.kotlin.function
-
-import java.util.*
+package com.sail.kotlin.base
 
 /**
  * 扩展的作用域

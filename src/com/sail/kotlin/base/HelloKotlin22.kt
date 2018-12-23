@@ -1,4 +1,4 @@
-package com.sail.kotlin.function
+package com.sail.kotlin.base
 
 /**
  * 可见性 visibility

@@ -1,4 +1,4 @@
-package com.sail.kotlin.clazz
+package com.sail.kotlin.base
 
 class Person constructor(username: String) {
     private var username: String

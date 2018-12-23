@@ -1,4 +1,4 @@
-package com.sail.kotlin.function
+package com.sail.kotlin.base
 
 /**
  * 伴生对象的扩展

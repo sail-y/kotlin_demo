@@ -1,4 +1,4 @@
-package com.sail.kotlin.clazz
+package com.sail.kotlin.base
 
 /**
  * 一个类同时实现接口和类
@@ -17,7 +17,7 @@ open class B {
     }
 }
 
-class C : A,B() {
+class C : A, B() {
     override fun method() {
         super<A>.method()
         super<B>.method()
