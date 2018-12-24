@@ -58,28 +58,33 @@ com.sail.kotlin.base.HelloKotlin26.kt
 
 13_Kotlin数据类深度解析与底层剖析
 
-com.sail.kotlin2.base.HelloKotlin1.kt     
+com.sail.kotlin2.HelloKotlin1.kt     
 
 14_Kotlin泛型与协变及逆变原理剖析
-com.sail.kotlin2.base.HelloKotlin2.kt       
-com.sail.kotlin2.base.HelloKotlin3.kt
+com.sail.kotlin2.HelloKotlin2.kt       
+com.sail.kotlin2.HelloKotlin3.kt
 
 15_协变与逆变原理深度剖析及实例演示
-com.sail.kotlin2.base.HelloKotlin4.kt       
+com.sail.kotlin2.HelloKotlin4.kt       
 
 16_从底层实现剖析Kotlin协变与逆变的原理
 
-com.sail.kotlin2.base.HelloKotlin5.kt
+com.sail.kotlin2.HelloKotlin5.kt
 
 17_Kotlin使用处协变的意义与用法
 
-com.sail.kotlin2.base.HelloKotlin6.kt       
+com.sail.kotlin2.HelloKotlin6.kt       
 
 18_Kotlin星投影与泛型约束详解
 
-com.sail.kotlin2.base.HelloKotlin7.kt              
-com.sail.kotlin2.base.HelloKotlin8.kt              
-com.sail.kotlin2.base.HelloKotlin9.kt     
+com.sail.kotlin2.HelloKotlin7.kt              
+com.sail.kotlin2.HelloKotlin8.kt              
+com.sail.kotlin2.HelloKotlin9.kt    
+
+19_嵌套类与内部类深入详解
+com.sail.kotlin3.HelloKotlin1.kt         
+com.sail.kotlin3.HelloKotlin2.kt         
+com.sail.kotlin3.HelloKotlin3.kt         
 
          
      
