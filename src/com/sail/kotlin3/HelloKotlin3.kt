@@ -9,6 +9,9 @@ class Person(var name: String, var age: Int) {
 
     private val str: String = "Person属性"
 
+    /**
+     * 内部类会持有一个外部类的引用，可以访问到外部类的成员变量
+     */
     private inner class PersonFeature(var height: Int, var weight: Int) {
 
         private val str: String = "PersonFeature属性"
